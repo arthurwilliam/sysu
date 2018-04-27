@@ -1,4 +1,4 @@
 SYSU
 ====
 
-freshman
+Freshman
